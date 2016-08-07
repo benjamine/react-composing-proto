@@ -9,6 +9,10 @@ react-composing-proto
 
 React Composing Prototype
 
+-----
+**[Live Demo](https://benjamine.github.io/react-composing-proto/)**
+-----
+
 Install
 -------
 ``` sh
